@@ -256,7 +256,10 @@ section {
   color: #fce138;
   overflow: auto;
 }
-
+.trainer-bio {
+  margin: 0 auto 0px auto;
+  clear: both;
+}
 .trainer-bio {
   padding: 35px;
   float: left; 
