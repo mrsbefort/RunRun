@@ -70,7 +70,9 @@ footer a {
 section {
   padding: 60px;
 }
-
+.hero h2 {
+  
+}
 /* Hero Style Start */
 .hero {
   background-image: url('../images/hero-bg.jpeg');
