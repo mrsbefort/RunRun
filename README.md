@@ -12,3 +12,5 @@ https://mrsbefort.github.io/RunRun/
 
 ## Cotribution
 Made :heart: with by Gabrielle Befort
+
+### ©️2019 Run Buddy, Inc 
