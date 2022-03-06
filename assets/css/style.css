@@ -71,7 +71,7 @@ section {
   padding: 60px;
 }
 .hero h2 {
-  
+
 }
 /* Hero Style Start */
 .hero {
@@ -123,55 +123,6 @@ section {
   padding: 10px 20px;
   font-size: 16px;
 }
-/* .hero {
-    background-image: url("../images/hero-bg.jpeg");
-    height: 600px;
-    background-size: cover;
-    background-position: center;
-    position: relative;
-}
-
-.hero-form{
-    border: solid 3px #024e76;
-    background-color: #fce138;
-    padding: 20px;
-    width: 500px;  
-    color: #024e76;
-    position: absolute;
-    bottom: 120px; 
-    right: 140px;
-}
-.hero-form p{
-  margin: 5px 0 15px 0;
-}
-
-.hero-form h3 {
-  font-size: 24px;
-  margin: 0;
-}
-
-.form-input {
-  border: 1px solid #024e76;
-  display: block;
-  padding: 7px 15px;
-  font-size: 16px;
-  color: #024e76;
-  width: 100%;
-  margin-bottom: 15px;
-}
-
-.hero-form label {
-  margin: 0 5px;
-}
-
-.submit {
-  color: #fce138 !important; 
-  background-color: #024e76;
-  border: none;
-  padding: 10px 20px;
-  font-size: 16px;
-} */
-/* Hero Style End */
 
 .intro {
   text-align: center;
@@ -326,3 +277,12 @@ section {
 }
 
 /* REACH OUT STYLES END */
+
+/* homepage hero */
+.hero {
+  margin: 20px;
+  background-color: white;
+  font-size: 20px;
+  color: blue;
+}
+
