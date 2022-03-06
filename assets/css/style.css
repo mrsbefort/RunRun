@@ -5,7 +5,6 @@
   }
 
   body {
-    /* more on this crazy alphanumerical value in a minute! */
     color: #39a6b2;
     font-family: Helvetica, Arial, sans-serif;
   }
@@ -49,21 +48,23 @@ header {
     font-size: 1.55vw;
   }
 
+  /*Applies styles to footer */
 footer {
     background: #fce138;
     width: 100%;
     padding: 40px 35px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    display: flex;
 }
 
 footer h2 {
-    display: inline; 
     color: #024e76;
     font-size: 30px; 
     margin: 0;
 }
 
-footer div {
-    float: right;
+footer div { 
     line-height: 1.5;
     text-align: right;
 }
@@ -76,28 +77,47 @@ footer a {
 section {
   padding: 60px;
 }
-.hero h2 {
 
-}
 /* Hero Style Start */
 .hero {
   background-image: url('../images/hero-bg.jpeg');
-  height: 600px;
   background-size: cover;
   background-position: center;
-  position: relative;
+ display: flex;
+ justify-content: center;
+ flex-wrap: wrap;
+ margin: 20px;
+ background-color: white;
+ font-size: 20px;
+ color: #39a6b2;
+}
+.hero h2 {
+
 }
 /* Hero Style End */
 
+.hero-cta {
+  width: 35%;
+  text-align: right;
+  margin: 3.5%;
+  color: #fff;
+  font-size: 18px;
+  line-height: 1.3;
+}
+
+.hero-cta h2 {
+  font-style: italic;
+  font-size: 55px;
+  color: #fce138;
+}
+/* Hero Form Start*/
 .hero-form {
   border: 3px solid #024e76;
   background-color: #fce138;
   padding: 20px;
-  width: 500px;
   color: #024e76;
-  position: absolute;
-  bottom: 120px;
-  right: 140px;
+  width: 40%;
+  margin: 3.5%;
 }
 
 .hero-form h3 {
@@ -129,6 +149,8 @@ section {
   padding: 10px 20px;
   font-size: 16px;
 }
+/* Hero Form End */
+
 
 .intro {
   text-align: center;
@@ -284,11 +306,4 @@ section {
 
 /* REACH OUT STYLES END */
 
-/* homepage hero */
-.hero {
-  margin: 20px;
-  background-color: white;
-  font-size: 20px;
-  color: #39a6b2;
-}
 
