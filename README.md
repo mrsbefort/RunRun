@@ -1,4 +1,4 @@
-# RunRun
+# Run Buddy, Inc
 
 ## Purpose
 A website that offers fitness training services. 
@@ -8,9 +8,9 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://mrsbefort.github.io/RunRun/
+https://lernantino.github.io/run-buddy/
 
-## Cotribution
-Made :heart: with by Gabrielle Befort
+## Contribution
+Made with ❤️ by [your name]
 
 ### ©️2019 Run Buddy, Inc 
